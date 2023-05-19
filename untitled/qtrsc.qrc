@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../../Downloads/target.png</file>
+        <file>../../../Downloads/telegram.png</file>
+        <file>../../../Downloads/gmail.png</file>
+        <file>../../../Downloads/love.png</file>
+        <file>../../../Downloads/share.png</file>
+        <file>../../../Downloads/notification.png</file>
+        <file>../../../Downloads/upload (1).png</file>
+        <file>../../../Downloads/upload.png</file>
+        <file>../../../Downloads/text.png</file>
+    </qresource>
+</RCC>

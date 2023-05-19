@@ -1,0 +1,8 @@
+if __name__ == "__main__":
+    import sys
+    app = QtWidgets.QApplication(sys.argv)
+    chat_main = QtWidgets.QWidget()
+    ui = Ui_chat_main()
+    ui.setupUi(chat_main)
+    chat_main.show()
+    sys.exit(app.exec())
